@@ -1,2 +1,4 @@
-# bhavana duraga devi sri
-friends
+# bhavana Durga
+#include<stdio.h>
+int main()
+
